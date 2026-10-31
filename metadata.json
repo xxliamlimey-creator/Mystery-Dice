@@ -1,0 +1,6 @@
+{
+  "name": "Mystery Dice",
+  "description": "Download Mystery Dice for Android. The 3D pass-and-play tabletop party game with physics dice rolls, interactive duels, tag chases, and mystery mode challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
